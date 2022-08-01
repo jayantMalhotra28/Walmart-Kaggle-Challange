@@ -6,4 +6,6 @@ Info on Data: For this project, we have used the dataset available from ‘Walma
 
 Approach: In this project, we conducted multiple regression models to predict the future sales. There were several different factors that we analyzed in our regression             model starting with a full model with all the variables and then moving forward by eliminating insignificant variables. We used several different exploratory             analyses to identify the key variables for our regression models such as correlation plots, heatmaps, histograms etc.
 
-Conclusion: The Random Forest Regression Model predicted the sales with the R2 score of 0.976.
+Output: Test_data_Output.csv was submitted as a sumbmission to Kaggle competetion.
+
+Conclusion: The Random Forest Regression Model turned out to be the best model and predicted the sales with the R2 score of 0.976
